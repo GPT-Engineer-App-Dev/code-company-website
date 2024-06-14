@@ -9,7 +9,7 @@ const Index = () => {
         <Text fontSize="lg" textAlign="center">We provide top-notch coding services to help you build and scale your digital products.</Text>
         <Button colorScheme="teal" size="lg">Get Started</Button>
         <Box boxSize="sm">
-          <Image src="https://via.placeholder.com/400" alt="Coding illustration" />
+          <Image src="/images/placeholder.png" alt="Coding illustration" />
         </Box>
         <HStack spacing={4}>
           <IconButton aria-label="Facebook" icon={<FaFacebook />} size="lg" />
